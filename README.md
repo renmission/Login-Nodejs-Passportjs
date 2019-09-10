@@ -6,4 +6,4 @@ or just install nodemon
 
 > $ npm i nodemon
 
-and run nodemoon
+and run nodemon
